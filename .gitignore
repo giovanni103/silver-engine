@@ -1,18 +1,18 @@
 # Build and Release Folders
 bin-debug/
-bin-release/
+bin-release/1011
 [Oo]bj/
 [Bb]in/
 
 # Other files and folders
-.settings/
+.settings/if6are9666666
 
 # Executables
 *.swf
 *.air
 *.ipa
 *.apk
-
+×.exe
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
